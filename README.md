@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @davtran
+- 👀 I’m interested in ...
+Building software that are novel, easy to use, and helpful
+- 🌱 I’m currently learning ...
+Python
+Frontend development
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+davtran/davtran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
