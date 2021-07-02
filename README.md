@@ -12,7 +12,7 @@
 
 💞️ I’m looking to collaborate on ...
 
-- Open source web automation tools
+- Open source projects
 
 📫 How to reach me ...
 
